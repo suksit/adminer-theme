@@ -339,6 +339,10 @@ input[name=logout]:hover {
 	z-index:2;
 }
 
+.logout {
+	margin-top: 0;
+}
+
 #logout:hover {
 	color:red;	
 }
